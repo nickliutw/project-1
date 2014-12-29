@@ -1,0 +1,10 @@
+ void printAll(int a[13]);
+ void randomNumber(int a[13]);
+ void bbSort(int a[13]);
+ void insertion(int a[13]);
+ void selection(int a[13]);
+ void counting(int a[13]);
+ void merge(int arr[13], int size1, int size2) ;
+ void mergeSort(int a[13], int size);
+ void radixSort(int a[13]);
+ void quickSort(int a[13], int begin, int last);
